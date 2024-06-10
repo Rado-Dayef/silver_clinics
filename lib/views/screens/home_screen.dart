@@ -15,9 +15,15 @@ class HomeScreen extends GetWidget<HomeController> {
             child: Image.asset(AppStrings.appLogoLogo),
           ),
           Text(
-            AppStrings.appTitleArabic,
+            AppStrings.silverText,
             style: AppFonts.boldWhite20.copyWith(
               fontSize: 30,
+            ),
+          ),
+          Text(
+            AppStrings.openingParenthesisSign + AppStrings.spaceSign + AppStrings.clinicsAndAnalysisLabsText + AppStrings.spaceSign + AppStrings.closingParenthesisSign,
+            style: AppFonts.boldWhite20.copyWith(
+              fontSize: 16,
             ),
           ),
           const GapWidget(25),

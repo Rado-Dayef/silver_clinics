@@ -125,6 +125,7 @@ class AppStrings {
   static const String egyptCodeText = "EG";
   static const String clinicText = "عيادة";
   static const String genderText = "النوع";
+  static const String silverText = "سيلفر";
   static const String aboutText = "نبذة عن";
   static const String mailtoText = "mailto";
   static const String mondayText = "الاثنين";
@@ -167,6 +168,7 @@ class AppStrings {
   static const String bookingVisitToTheLabText = "حجز زيارة داخل المعمل";
   static const String socialMediaPlatformsText = "منصات التواصل الاجتماعى";
   static const String addressesAndWorkingHoursText = "العناوين ومواعيد العمل";
+  static const String clinicsAndAnalysisLabsText = "عيادات طبية ومعامل تحاليل";
   static const String dermatologyAndBeautyClinicText = "عيادة الجلدية والتجميل";
   static const String gynecologyAndObstetricsClinicText = "عيادة النساء والتوليد ";
   static const String selectFromOffersAndDiscountsText = "اختر من العروض والتخفيضات";
