@@ -1,0 +1,50 @@
+name: silver_clinics
+description: "Silver Clinics."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  readmore: ^3.0.0
+  fluttertoast: ^8.2.6
+  url_launcher: ^6.3.0
+  firebase_core: ^2.32.0
+  cupertino_icons: ^1.0.6
+  carousel_slider: ^4.2.1
+  intl_phone_field: ^3.2.0
+  cloud_firestore: ^4.17.5
+  cached_network_image: ^3.3.1
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/appLogo.png"
+  web:
+    generate: true
+    image_path: "assets/images/appLogo.png"
+    background_color: "#ffffff00"
+    theme_color: "#ffffff00"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/fonts/
+    - assets/images/
+  fonts:
+    - family: Arabic
+      fonts:
+        - asset: assets/fonts/arabic.otf

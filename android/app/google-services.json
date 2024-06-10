@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529773385078",
+    "project_id": "silver-clinics",
+    "storage_bucket": "silver-clinics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529773385078:android:1358abf757c12340105657",
+        "android_client_info": {
+          "package_name": "com.ncp.silver_clinics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHJADHZQpjPNrMUSpg54tJ0cLwycaRLz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

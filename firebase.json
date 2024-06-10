@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "silver-clinics",
+          "appId": "1:529773385078:android:1358abf757c12340105657",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "silver-clinics",
+          "configurations": {
+            "android": "1:529773385078:android:1358abf757c12340105657",
+            "ios": "1:529773385078:ios:5b27b375fbec2363105657",
+            "macos": "1:529773385078:ios:5b27b375fbec2363105657",
+            "web": "1:529773385078:web:6b91cec9efafbffb105657",
+            "windows": "1:529773385078:web:a3a6aabf7623b713105657"
+          }
+        }
+      }
+    }
+  }
+}
